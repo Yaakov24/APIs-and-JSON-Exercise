@@ -12,7 +12,9 @@ namespace APIsAndJSON
                 //QuoteGenarater.KanyeQuote();
                 QuoteGenarater.RonQuote();
             }
-
+           
+                OpenWeatherMapAPI.WeatherMap();
+            
                
             
         }
